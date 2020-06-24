@@ -68,8 +68,9 @@ p {
 	color: #666;
 	font-style: normal;
 	font-weight: 400;
-	font-size: 14px;
-	line-height: 30px;
+	font-size: 15px;
+	line-height: 31px;
+	margin: 0 0 15px;
 }
 i {
 	color: #151515;
